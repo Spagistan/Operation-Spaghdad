@@ -336,7 +336,3 @@ itemfactory addAction [
     "",
     "_target distance _this < 8"
 ];
-execVM "flicker1.sqf";
-execVM "flicker2.sqf";
-execVM "flicker3.sqf";
-execVM "flicker4.sqf";
